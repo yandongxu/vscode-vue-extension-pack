@@ -2,7 +2,7 @@
   "name": "vue-development-extension-pack",
   "displayName": "Dongxu's Vue Development Extension Pack",
   "description": "A curated collection of essential VS Code extensions specifically tailored for modern frontend development workflows, including Vue, TypeScript, and CSS frameworks.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "yandongxu",
   "license": "MIT",
   "galleryBanner": {
@@ -10,7 +10,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.14.0"
   },
   "categories": [
     "Extension Packs"
@@ -47,3 +47,4 @@
     "url": "https://github.com/yandongxu/vscode-vue-extension-pack/issues"
   }
 }
+
