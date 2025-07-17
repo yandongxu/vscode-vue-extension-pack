@@ -1,0 +1,49 @@
+{
+  "name": "vue-development-extension-pack",
+  "displayName": "Dongxu's Vue Development Extension Pack",
+  "description": "A curated collection of essential VS Code extensions specifically tailored for modern frontend development workflows, including Vue, TypeScript, and CSS frameworks.",
+  "version": "0.1.0",
+  "publisher": "yandongxu",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "yandongxu.base-development-extension-pack",
+    "formulahendry.auto-rename-tag",
+    "vue.volar",
+    "vitest.explorer",
+    "nicholashsiang.vscode-javascript-snippet",
+    "mariusalchimavicius.json-to-ts",
+    "yandongxu.vue-jsx-snippets",
+    "christian-kohler.npm-intellisense",
+    "chakrounanas.turbo-console-log",
+    "bradlc.vscode-tailwindcss",
+    "jock.svg",
+    "mylesmurphy.prettify-ts",
+    "yoavbls.pretty-ts-errors",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "clinyong.vscode-css-modules",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "stylelint.vscode-stylelint",
+    "huuums.vscode-fast-folder-structure"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yandongxu/vscode-vue-extension-pack.git"
+  },
+  "homepage": "https://github.com/yandongxu/vscode-vue-extension-pack/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/yandongxu/vscode-vue-extension-pack/issues"
+  }
+}
